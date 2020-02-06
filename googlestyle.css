@@ -1,6 +1,7 @@
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
+.logo {
+  position: absolute;
+  left: 50%;
+  margin-left: -136px;
+  padding-top: 109px;
+  top: 16%;
+}
